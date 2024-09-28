@@ -299,7 +299,7 @@ dependencies:
       - tinycss2==1.2.1
       - tokenizers==0.13.3
       - tomli==2.0.1
-      - torch==2.1.2
+      - torch
       - torchaudio==0.13.1
       - torchfile==0.1.0
       - torchlibrosa==0.1.0
